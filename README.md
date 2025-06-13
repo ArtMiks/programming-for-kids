@@ -1,10 +1,8 @@
-
-<!DOCTYPE html>
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>КодУм - Программирование для детей</title>
+    <title>ProgramPro - Программирование для детей</title>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Comic+Neue:wght@400;700&family=Rubik+Bubbles&display=swap">
     <style>
         :root {
@@ -317,7 +315,7 @@
 <body>
     <header>
         <div class="header-container">
-            <div class="logo">КодУм</div>
+            <div class="logo">ProgramPro</div>
             <nav>
                 <ul>
                     <li><a href="#about">О нас</a></li>
@@ -479,7 +477,7 @@
             <a href="#" class="social-icon"><i class="fab fa-youtube"></i></a>
             <a href="#" class="social-icon"><i class="fab fa-instagram"></i></a>
         </div>
-        <p>&copy; 2023 КодУм - Школа программирования для детей. Все права защищены.</p>
+        <p>&copy; 2025 ProgramPro - Школа программирования для детей. Все права защищены.</p>
     </footer>
     
     <script>
